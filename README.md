@@ -1,2 +1,3 @@
 # Timer
-Javascript timer example of Javascript "This Operator"
+Javascript timer
+Example of Javascript "This Operator"
